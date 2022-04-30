@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 1. Data science student
 2. Master of animal biology
 
-nome / idade
-.............
+nome      / idade
+........ / ........
 Letícia / 33
