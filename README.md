@@ -2,23 +2,17 @@
 
 ![LÊ](My project.png)
 
-Here are some ideas to get you started:
+Here is some information about me
 
-- 🔭 I’m currently **working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to _collaborate on_ ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+- 🔭 I’m currently **work as a researcher** 
+- 🌱 I’m currently **learning data analysis and modeling in big data**
+- 🤔 I’m looking for help **with improving data analysis in big data**
+- 📫 How to reach me: e-mail: leticia.a.moura@unesp.br
 #[Linkedin](https://www.linkedin.com/in/leticiaalmeidacb/)
 
 1. Data science student
-2. Master of animal biology
+2. Doctoral student in ecology
 
 nome      / idade
 ........ / ........
-Letícia / 33
+Letícia / 34
