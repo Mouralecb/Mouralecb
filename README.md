@@ -13,6 +13,6 @@ Here is some information about me
 1. Data science student
 2. Doctoral student in ecology
 
-nome      / idade
-Letícia / 34
+nome      / Letícia
+idade / 34
 
